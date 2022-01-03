@@ -1,0 +1,30 @@
+{
+  "name": "baileys_usesinglefileauthstatemock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itacirgabral/Baileys_useSingleFileAuthStateMock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itacirgabral/Baileys_useSingleFileAuthStateMock/issues"
+  },
+  "homepage": "https://github.com/itacirgabral/Baileys_useSingleFileAuthStateMock#readme",
+  "dependencies": {
+    "@adiwajshing/baileys-md": "^4.0.0",
+    "qrcode": "^1.5.0"
+  },
+  "devDependencies": {
+    "@types/qrcode": "^1.4.2",
+    "pino": "^7.6.2",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
